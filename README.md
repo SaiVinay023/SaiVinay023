@@ -4,6 +4,7 @@
 AI-Augmented Full Stack & Cloud Systems Engineer with a Master’s in Robotics Engineering (Computer Science & AI) and 3+ years of experience architecting end-to-end web ecosystems, cross-platform mobile apps, and robust cloud infrastructure. A hyper-efficient, AI-native developer utilizing advanced LLM orchestration, custom Model Context Protocols (MCPs), and autonomous coding workflows to accelerate production lifecycles by 3x. 
 
 Proven track record of slashing operational costs and third-party API overhead by 100% through custom-engineered logic (including live geofencing/tracking engines). Expert in building sub-100ms high-performance applications using Next.js, React, Node.js, and TypeScript, seamlessly balanced with rapid-deployment WordPress architectures for enterprise marketing layers. Advanced specialist in modern DevOps and CI/CD pipelines across AWS, Azure, and Vercel, deploying containerized microservices via Docker to ensure 99.9% uptime. Engineered with a foundational background in robotics, bringing mechanical precision, deep algorithmic logic, and automated system architecture to remote, high-leverage software teams looking to maximize engineering velocity and cut down infrastructure spend.
+
 ---
 
 - 🔭 **I’m currently working on:** Architecting autonomous AI automations and agentic multi-agent workflows—engineering the future of software development where LLMs and systems execute side-by-side.
